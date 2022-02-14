@@ -1,0 +1,36 @@
+body{
+   text-align: center;
+   margin: 0px;
+   background-color:rgb(185, 116, 159);
+}
+h1{ font-family: 'Fredoka One', cursive;
+    font-family: 'Quintessential', cursive;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+   
+}
+.p1{
+    font-family: 'Fredoka One', cursive;
+font-family: 'Quintessential', cursive;
+font-family: 'Zen Kaku Gothic Antique', sans-serif;
+font-size: 110%;
+}
+
+.p2{
+    position: absolute;
+    background-color:rgb(216, 175, 207);
+    border-style: dashed;
+    border-color: rgb(10, 10, 10);
+    width: 500px;
+    height:300px;
+    left: 500px;
+    display: block;
+    
+
+}
+
+.p3{
+    position: relative;
+    left: 50px;
+    padding-right: 700px;
+    font-size: 13px;
+}
